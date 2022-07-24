@@ -1,10 +1,9 @@
-#@Copyrights : Mahmoud $(PROJ_NAME) Zamel
+#@Copyrights : Mahmoud karem Zamel
 #$Date       : Jul 22 ,2022
 
 #======================================================================================
 CC=arm-none-eabi-
-CFLAGS=-g -c
-CFLAGS_MCPU=-mcpu=arm926ej-s
+CFLAGS=-g -mcpu=arm926ej-s
 INCS=-I .
 LIBS=
 SRC=$(wildcard *.c)
@@ -13,28 +12,28 @@ AS=$(wildcard *.s)
 AS_OBJ=$(AS:.s=.o)
 PROJ_NAME=Karem
 #--------------------------------------------------------------------------------------
+
+all: $(PROJ_NAME).bin
+	@echo "================= Building Process is done ================="
+
+#--------------------------------------------------------------------------------------
 %.o: %.c
-	$(CC)gcc.exe $(CFLAGS) $(CFLAGS_MCPU)  $(INCS) $< -o $@
+	$(CC)gcc.exe $(CFLAGS) $(INCS) $< -o $@
 
 #--------------------------------------------------------------------------------------
 
-startup.o: startup.s
-	$(CC)as.exe $(CFLAGS_MCPU) $< -o startup.o
+%.o: %.s
+	$(CC)as.exe $(CFLAGS) $< -o $@
 
 #--------------------------------------------------------------------------------------
 
 $(PROJ_NAME).elf: $(OBJ) $(AS_OBJ)
-	$(CC)ld.exe -T linker_script.ld $(LIBS) $(OBJ) $(AS_OBJ) -o $@
+	$(CC)ld.exe -T linker_script.ld $(OBJ) -Map=Map_File.map -o $@
 
 #--------------------------------------------------------------------------------------
 
 $(PROJ_NAME).bin: $(PROJ_NAME).elf
 	$(CC)objcopy.exe -O binary $< $@
-
-#--------------------------------------------------------------------------------------
-
-all: $(PROJ_NAME).bin
-	@echo "================= Building Process is done ================="
 
 #--------------------------------------------------------------------------------------
 
