@@ -1,12 +1,13 @@
+#include "Platform_Types.h"
 #include "uart.h"
 
-#define UART0_DR *((volatile unsigned int * const)((unsigned int *)0x101f1000))
+#define UART0_DR *((vuint32_t* const)((uint32*)0x101f1000))
 
-void UART_Send_String (unsigned char *P_tx_string)
+void UART_Send_String (uint8* P_tx_string)
 {
 	while (*P_tx_string != '\0')
 	{
-		UART0_DR = (unsigned int)(*P_tx_string);
+		UART0_DR = (uint32_t)(*P_tx_string);
 		P_tx_string++;
 	}
 	
