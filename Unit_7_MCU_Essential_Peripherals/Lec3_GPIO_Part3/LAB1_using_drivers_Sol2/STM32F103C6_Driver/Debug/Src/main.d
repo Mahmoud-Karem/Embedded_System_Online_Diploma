@@ -1,0 +1,13 @@
+Src/main.o: ../Src/main.c \
+ D:/Learn_In_Depth/Embedded_System_Online_Diploma/Unit_7_MCU_Essential_Peripherals/Lec3_GPIO_Part3/LAB1_using_drivers_Sol2/STM32F103C6_Driver/Services/STM32F103x6.h \
+ D:/Learn_In_Depth/Embedded_System_Online_Diploma/Unit_7_MCU_Essential_Peripherals/Lec3_GPIO_Part3/LAB1_using_drivers_Sol2/STM32F103C6_Driver/Services/Platform_Types.h \
+ D:/Learn_In_Depth/Embedded_System_Online_Diploma/Unit_7_MCU_Essential_Peripherals/Lec3_GPIO_Part3/LAB1_using_drivers_Sol2/STM32F103C6_Driver/Services/Util.h \
+ D:/Learn_In_Depth/Embedded_System_Online_Diploma/Unit_7_MCU_Essential_Peripherals/Lec3_GPIO_Part3/LAB1_using_drivers_Sol2/STM32F103C6_Driver/MCAL/GPIO/GPIO.h
+
+D:/Learn_In_Depth/Embedded_System_Online_Diploma/Unit_7_MCU_Essential_Peripherals/Lec3_GPIO_Part3/LAB1_using_drivers_Sol2/STM32F103C6_Driver/Services/STM32F103x6.h:
+
+D:/Learn_In_Depth/Embedded_System_Online_Diploma/Unit_7_MCU_Essential_Peripherals/Lec3_GPIO_Part3/LAB1_using_drivers_Sol2/STM32F103C6_Driver/Services/Platform_Types.h:
+
+D:/Learn_In_Depth/Embedded_System_Online_Diploma/Unit_7_MCU_Essential_Peripherals/Lec3_GPIO_Part3/LAB1_using_drivers_Sol2/STM32F103C6_Driver/Services/Util.h:
+
+D:/Learn_In_Depth/Embedded_System_Online_Diploma/Unit_7_MCU_Essential_Peripherals/Lec3_GPIO_Part3/LAB1_using_drivers_Sol2/STM32F103C6_Driver/MCAL/GPIO/GPIO.h:

@@ -1,0 +1,6 @@
+"Src/DIO_program.o"
+"Src/RCC_program.o"
+"Src/main.o"
+"Src/syscalls.o"
+"Src/sysmem.o"
+"Startup/startup_stm32f103c6tx.o"

@@ -1,0 +1,4 @@
+main.c:44:6:clock_init	4	static
+main.c:50:6:GPIO_init	16	static
+main.c:102:6:wait_ms	24	static
+main.c:108:5:main	40	static
