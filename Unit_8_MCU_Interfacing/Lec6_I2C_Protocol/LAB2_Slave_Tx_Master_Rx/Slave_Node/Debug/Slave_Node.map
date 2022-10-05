@@ -1,0 +1,412 @@
+Archive member included because of file (symbol)
+
+d:/embedded tools/02-avr tools/03-imt sdk/03- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              d:/embedded tools/02-avr tools/03-imt sdk/03- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm16.o (exit)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD d:/embedded tools/02-avr tools/03-imt sdk/03- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm16.o
+LOAD ./DIO_program.o
+LOAD ./TWI_program.o
+LOAD ./main.o
+LOAD d:/embedded tools/02-avr tools/03-imt sdk/03- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD d:/embedded tools/02-avr tools/03-imt sdk/03- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD d:/embedded tools/02-avr tools/03-imt sdk/03- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x12c8
+ *(.vectors)
+ .vectors       0x00000000       0x54 d:/embedded tools/02-avr tools/03-imt sdk/03- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm16.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x00000054                . = ALIGN (0x2)
+                0x00000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000054        0x0 linker stubs
+ *(.trampolines*)
+                0x00000054                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000054                __ctors_start = .
+ *(.ctors)
+                0x00000054                __ctors_end = .
+                0x00000054                __dtors_start = .
+ *(.dtors)
+                0x00000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000054        0x0 d:/embedded tools/02-avr tools/03-imt sdk/03- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm16.o
+                0x00000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000054        0xc d:/embedded tools/02-avr tools/03-imt sdk/03- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm16.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000060        0x8 d:/embedded tools/02-avr tools/03-imt sdk/03- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm16.o
+ *(.init9)
+ *(.text)
+ .text          0x00000068        0x4 d:/embedded tools/02-avr tools/03-imt sdk/03- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm16.o
+                0x00000068                __vector_1
+                0x00000068                __vector_12
+                0x00000068                __bad_interrupt
+                0x00000068                __vector_6
+                0x00000068                __vector_3
+                0x00000068                __vector_11
+                0x00000068                __vector_13
+                0x00000068                __vector_17
+                0x00000068                __vector_19
+                0x00000068                __vector_7
+                0x00000068                __vector_5
+                0x00000068                __vector_4
+                0x00000068                __vector_9
+                0x00000068                __vector_2
+                0x00000068                __vector_15
+                0x00000068                __vector_8
+                0x00000068                __vector_14
+                0x00000068                __vector_10
+                0x00000068                __vector_16
+                0x00000068                __vector_18
+                0x00000068                __vector_20
+ .text          0x0000006c        0x0 ./DIO_program.o
+ .text          0x0000006c        0x0 ./TWI_program.o
+ .text          0x0000006c        0x0 ./main.o
+ .text          0x0000006c        0x0 d:/embedded tools/02-avr tools/03-imt sdk/03- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x0000006c                . = ALIGN (0x2)
+ *(.text.*)
+ .text.DIO_enumSetPinDirection
+                0x0000006c      0x21e ./DIO_program.o
+                0x0000006c                DIO_enumSetPinDirection
+ .text.DIO_enumSetPinValue
+                0x0000028a      0x21e ./DIO_program.o
+                0x0000028a                DIO_enumSetPinValue
+ .text.DIO_enumGetPinValue
+                0x000004a8      0x18a ./DIO_program.o
+                0x000004a8                DIO_enumGetPinValue
+ .text.DIO_enumTogglePinValue
+                0x00000632      0x110 ./DIO_program.o
+                0x00000632                DIO_enumTogglePinValue
+ .text.DIO_enumConnectPullup
+                0x00000742      0x2b2 ./DIO_program.o
+                0x00000742                DIO_enumConnectPullup
+ .text.DIO_enumSetPortDirection
+                0x000009f4       0x9a ./DIO_program.o
+                0x000009f4                DIO_enumSetPortDirection
+ .text.DIO_enumSetPortValue
+                0x00000a8e       0x9a ./DIO_program.o
+                0x00000a8e                DIO_enumSetPortValue
+ .text.DIO_enumTogglePortValue
+                0x00000b28       0xaa ./DIO_program.o
+                0x00000b28                DIO_enumTogglePortValue
+ .text.DIO_enumGetPortValue
+                0x00000bd2       0xae ./DIO_program.o
+                0x00000bd2                DIO_enumGetPortValue
+ .text.DIO_voidWriteHighNibbles
+                0x00000c80       0xf8 ./DIO_program.o
+                0x00000c80                DIO_voidWriteHighNibbles
+ .text.DIO_voidWriteLowNibbles
+                0x00000d78       0xf6 ./DIO_program.o
+                0x00000d78                DIO_voidWriteLowNibbles
+ .text.TWI_voidInitMaster
+                0x00000e6e       0x4e ./TWI_program.o
+                0x00000e6e                TWI_voidInitMaster
+ .text.TWI_voidInitSlave
+                0x00000ebc       0x3a ./TWI_program.o
+                0x00000ebc                TWI_voidInitSlave
+ .text.TWI_SendStartCondition
+                0x00000ef6       0x60 ./TWI_program.o
+                0x00000ef6                TWI_SendStartCondition
+ .text.TWI_SendRepeatedStart
+                0x00000f56       0x60 ./TWI_program.o
+                0x00000f56                TWI_SendRepeatedStart
+ .text.TWI_SendSlaveAddressWithWrite
+                0x00000fb6       0x7c ./TWI_program.o
+                0x00000fb6                TWI_SendSlaveAddressWithWrite
+ .text.TWI_SendSlaveAddressWithRead
+                0x00001032       0x7c ./TWI_program.o
+                0x00001032                TWI_SendSlaveAddressWithRead
+ .text.TWI_MasterWriteDataByte
+                0x000010ae       0x5e ./TWI_program.o
+                0x000010ae                TWI_MasterWriteDataByte
+ .text.TWI_MasterReadDataByte
+                0x0000110c       0x6a ./TWI_program.o
+                0x0000110c                TWI_MasterReadDataByte
+ .text.TWI_SlaveWriteDataByte
+                0x00001176       0x5e ./TWI_program.o
+                0x00001176                TWI_SlaveWriteDataByte
+ .text.TWI_SlaveReadDataByte
+                0x000011d4       0xa6 ./TWI_program.o
+                0x000011d4                TWI_SlaveReadDataByte
+ .text.TWI_SendStopCondition
+                0x0000127a       0x2a ./TWI_program.o
+                0x0000127a                TWI_SendStopCondition
+ .text.main     0x000012a4       0x20 ./main.o
+                0x000012a4                main
+ .text.libgcc   0x000012c4        0x0 d:/embedded tools/02-avr tools/03-imt sdk/03- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x000012c4                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000012c4        0x0 d:/embedded tools/02-avr tools/03-imt sdk/03- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x000012c4                exit
+                0x000012c4                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000012c4        0x4 d:/embedded tools/02-avr tools/03-imt sdk/03- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000012c8                _etext = .
+
+.data           0x00800060        0x0 load address 0x000012c8
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 d:/embedded tools/02-avr tools/03-imt sdk/03- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm16.o
+ .data          0x00800060        0x0 ./DIO_program.o
+ .data          0x00800060        0x0 ./TWI_program.o
+ .data          0x00800060        0x0 ./main.o
+ .data          0x00800060        0x0 d:/embedded tools/02-avr tools/03-imt sdk/03- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800060                . = ALIGN (0x2)
+                0x00800060                _edata = .
+                0x00800060                PROVIDE (__data_end, .)
+
+.bss            0x00800060        0x0
+                0x00800060                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800060        0x0 d:/embedded tools/02-avr tools/03-imt sdk/03- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm16.o
+ .bss           0x00800060        0x0 ./DIO_program.o
+ .bss           0x00800060        0x0 ./TWI_program.o
+ .bss           0x00800060        0x0 ./main.o
+ .bss           0x00800060        0x0 d:/embedded tools/02-avr tools/03-imt sdk/03- imt sdk/imt_sdk_win_64/winavr/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.bss*)
+ *(COMMON)
+                0x00800060                PROVIDE (__bss_end, .)
+                0x000012c8                __data_load_start = LOADADDR (.data)
+                0x000012c8                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800060        0x0
+                0x00800060                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800060                PROVIDE (__noinit_end, .)
+                0x00800060                _end = .
+                0x00800060                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x00000000     0x1788
+ *(.stab)
+ .stab          0x00000000      0xcc0 ./DIO_program.o
+ .stab          0x00000cc0      0x7a4 ./TWI_program.o
+                                0x84c (size before relaxing)
+ .stab          0x00001464      0x324 ./main.o
+                                0x414 (size before relaxing)
+
+.stabstr        0x00000000      0xd42
+ *(.stabstr)
+ .stabstr       0x00000000      0xd42 ./DIO_program.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(Slave_Node.elf elf32-avr)
+LOAD linker stubs
