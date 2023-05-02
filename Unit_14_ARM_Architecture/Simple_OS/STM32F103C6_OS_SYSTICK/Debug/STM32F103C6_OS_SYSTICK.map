@@ -1,0 +1,861 @@
+Archive member included to satisfy reference by file (symbol)
+
+d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-errno.o)
+                              Src/syscalls.o (__errno)
+d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+                              d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (exit)
+d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+                              d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+                              d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (__libc_init_array)
+d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+                              d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (memset)
+
+Allocating common symbols
+Common symbol       size              file
+
+_E_MSP              0x4               Src/main.o
+_S_PSP_TA           0x4               Src/main.o
+_S_PSP_TB           0x4               Src/main.o
+_E_PSP_TB           0x4               Src/main.o
+_E_PSP_TA           0x4               Src/main.o
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .data          0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .bss           0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .data          0x0000000000000000        0x4 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .text          0x0000000000000000       0x74 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .data          0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .bss           0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.exidx     0x0000000000000000        0x8 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1b d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .group         0x0000000000000000        0xc Src/AFIO_program.o
+ .group         0x0000000000000000        0xc Src/AFIO_program.o
+ .group         0x0000000000000000        0xc Src/AFIO_program.o
+ .group         0x0000000000000000        0xc Src/AFIO_program.o
+ .group         0x0000000000000000        0xc Src/AFIO_program.o
+ .text          0x0000000000000000        0x0 Src/AFIO_program.o
+ .data          0x0000000000000000        0x0 Src/AFIO_program.o
+ .bss           0x0000000000000000        0x0 Src/AFIO_program.o
+ .group         0x0000000000000000        0xc Src/DIO_program.o
+ .group         0x0000000000000000        0xc Src/DIO_program.o
+ .group         0x0000000000000000        0xc Src/DIO_program.o
+ .group         0x0000000000000000        0xc Src/DIO_program.o
+ .group         0x0000000000000000        0xc Src/DIO_program.o
+ .text          0x0000000000000000        0x0 Src/DIO_program.o
+ .data          0x0000000000000000        0x0 Src/DIO_program.o
+ .bss           0x0000000000000000        0x0 Src/DIO_program.o
+ .text.MDIO_voidSetPinValue
+                0x0000000000000000       0xf0 Src/DIO_program.o
+ .text.MDIO_u8GetPinValue
+                0x0000000000000000       0x84 Src/DIO_program.o
+ .text.MDIO_voidSetPortDirection
+                0x0000000000000000       0xd4 Src/DIO_program.o
+ .text.MDIO_voidSetPortValue
+                0x0000000000000000       0xd8 Src/DIO_program.o
+ .text.MDIO_u16GetPortValue
+                0x0000000000000000       0xb0 Src/DIO_program.o
+ .debug_macro   0x0000000000000000      0xa60 Src/DIO_program.o
+ .debug_macro   0x0000000000000000       0x3a Src/DIO_program.o
+ .debug_macro   0x0000000000000000       0x40 Src/DIO_program.o
+ .group         0x0000000000000000        0xc Src/EXTI_program.o
+ .group         0x0000000000000000        0xc Src/EXTI_program.o
+ .group         0x0000000000000000        0xc Src/EXTI_program.o
+ .group         0x0000000000000000        0xc Src/EXTI_program.o
+ .group         0x0000000000000000        0xc Src/EXTI_program.o
+ .group         0x0000000000000000        0xc Src/EXTI_program.o
+ .text          0x0000000000000000        0x0 Src/EXTI_program.o
+ .data          0x0000000000000000        0x0 Src/EXTI_program.o
+ .bss           0x0000000000000000        0x0 Src/EXTI_program.o
+ .text.MEXTI_voidDisableEXTI
+                0x0000000000000000       0x30 Src/EXTI_program.o
+ .text.MEXTI_voidSoftwareTrigger
+                0x0000000000000000       0x2c Src/EXTI_program.o
+ .text.MEXTI9_voidSetCallBack
+                0x0000000000000000       0x1c Src/EXTI_program.o
+ .debug_macro   0x0000000000000000      0xa60 Src/EXTI_program.o
+ .debug_macro   0x0000000000000000       0x3a Src/EXTI_program.o
+ .debug_macro   0x0000000000000000       0x40 Src/EXTI_program.o
+ .group         0x0000000000000000        0xc Src/NVIC_program.o
+ .group         0x0000000000000000        0xc Src/NVIC_program.o
+ .group         0x0000000000000000        0xc Src/NVIC_program.o
+ .group         0x0000000000000000        0xc Src/NVIC_program.o
+ .group         0x0000000000000000        0xc Src/NVIC_program.o
+ .group         0x0000000000000000        0xc Src/NVIC_program.o
+ .text          0x0000000000000000        0x0 Src/NVIC_program.o
+ .data          0x0000000000000000        0x0 Src/NVIC_program.o
+ .bss           0x0000000000000000        0x0 Src/NVIC_program.o
+ .text.MNVIC_voidSetPriority
+                0x0000000000000000       0x58 Src/NVIC_program.o
+ .text.MNVIC_voidDisableInterrupt
+                0x0000000000000000       0x44 Src/NVIC_program.o
+ .text.MNVIC_voidSetPendingFlag
+                0x0000000000000000       0x44 Src/NVIC_program.o
+ .text.MNVIC_voidClearPendingFlag
+                0x0000000000000000       0x44 Src/NVIC_program.o
+ .text.MNVIC_u8GetActiveFlag
+                0x0000000000000000       0x64 Src/NVIC_program.o
+ .debug_macro   0x0000000000000000      0xa60 Src/NVIC_program.o
+ .debug_macro   0x0000000000000000       0x3a Src/NVIC_program.o
+ .debug_macro   0x0000000000000000       0x40 Src/NVIC_program.o
+ .group         0x0000000000000000        0xc Src/RCC_program.o
+ .group         0x0000000000000000        0xc Src/RCC_program.o
+ .group         0x0000000000000000        0xc Src/RCC_program.o
+ .group         0x0000000000000000        0xc Src/RCC_program.o
+ .group         0x0000000000000000        0xc Src/RCC_program.o
+ .group         0x0000000000000000        0xc Src/RCC_program.o
+ .text          0x0000000000000000        0x0 Src/RCC_program.o
+ .data          0x0000000000000000        0x0 Src/RCC_program.o
+ .bss           0x0000000000000000        0x0 Src/RCC_program.o
+ .text.RCC_voidDisablePeripheralClock
+                0x0000000000000000       0x80 Src/RCC_program.o
+ .debug_macro   0x0000000000000000      0xa60 Src/RCC_program.o
+ .debug_macro   0x0000000000000000       0x3a Src/RCC_program.o
+ .debug_macro   0x0000000000000000       0x40 Src/RCC_program.o
+ .group         0x0000000000000000        0xc Src/STK_program.o
+ .group         0x0000000000000000        0xc Src/STK_program.o
+ .group         0x0000000000000000        0xc Src/STK_program.o
+ .group         0x0000000000000000        0xc Src/STK_program.o
+ .group         0x0000000000000000        0xc Src/STK_program.o
+ .text          0x0000000000000000        0x0 Src/STK_program.o
+ .data          0x0000000000000000        0x0 Src/STK_program.o
+ .bss           0x0000000000000000        0x0 Src/STK_program.o
+ .text.MSTK_voidSetBusyWait
+                0x0000000000000000       0x50 Src/STK_program.o
+ .text.MSTK_voidSetIntervalSingle
+                0x0000000000000000       0x5c Src/STK_program.o
+ .text.MSTK_voidStopInterval
+                0x0000000000000000       0x34 Src/STK_program.o
+ .text.MSTK_u32GetElapsedTime
+                0x0000000000000000       0x24 Src/STK_program.o
+ .text.MSTK_u32GetRemainingTime
+                0x0000000000000000       0x1c Src/STK_program.o
+ .debug_macro   0x0000000000000000      0xa60 Src/STK_program.o
+ .debug_macro   0x0000000000000000       0x3a Src/STK_program.o
+ .debug_macro   0x0000000000000000       0x40 Src/STK_program.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .group         0x0000000000000000        0xc Src/main.o
+ .text          0x0000000000000000        0x0 Src/main.o
+ .data          0x0000000000000000        0x0 Src/main.o
+ .bss           0x0000000000000000        0x0 Src/main.o
+ .debug_macro   0x0000000000000000      0xa60 Src/main.o
+ .debug_macro   0x0000000000000000       0x3a Src/main.o
+ .debug_macro   0x0000000000000000       0x40 Src/main.o
+ .debug_macro   0x0000000000000000      0x213 Src/main.o
+ .debug_macro   0x0000000000000000       0xe2 Src/main.o
+ .debug_macro   0x0000000000000000       0x6a Src/main.o
+ .debug_macro   0x0000000000000000       0xee Src/main.o
+ .debug_macro   0x0000000000000000       0x52 Src/main.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/syscalls.o
+ .text          0x0000000000000000        0x0 Src/syscalls.o
+ .data          0x0000000000000000        0x0 Src/syscalls.o
+ .bss           0x0000000000000000        0x0 Src/syscalls.o
+ .bss.__env     0x0000000000000000        0x4 Src/syscalls.o
+ .data.environ  0x0000000000000000        0x4 Src/syscalls.o
+ .text.initialise_monitor_handles
+                0x0000000000000000        0xc Src/syscalls.o
+ .text._getpid  0x0000000000000000        0xe Src/syscalls.o
+ .text._kill    0x0000000000000000       0x20 Src/syscalls.o
+ .text._exit    0x0000000000000000       0x14 Src/syscalls.o
+ .text._read    0x0000000000000000       0x3a Src/syscalls.o
+ .text._write   0x0000000000000000       0x38 Src/syscalls.o
+ .text._close   0x0000000000000000       0x16 Src/syscalls.o
+ .text._fstat   0x0000000000000000       0x1e Src/syscalls.o
+ .text._isatty  0x0000000000000000       0x14 Src/syscalls.o
+ .text._lseek   0x0000000000000000       0x18 Src/syscalls.o
+ .text._open    0x0000000000000000       0x1a Src/syscalls.o
+ .text._wait    0x0000000000000000       0x1e Src/syscalls.o
+ .text._unlink  0x0000000000000000       0x1e Src/syscalls.o
+ .text._times   0x0000000000000000       0x16 Src/syscalls.o
+ .text._stat    0x0000000000000000       0x1e Src/syscalls.o
+ .text._link    0x0000000000000000       0x20 Src/syscalls.o
+ .text._fork    0x0000000000000000       0x16 Src/syscalls.o
+ .text._execve  0x0000000000000000       0x22 Src/syscalls.o
+ .debug_info    0x0000000000000000      0xebd Src/syscalls.o
+ .debug_abbrev  0x0000000000000000      0x261 Src/syscalls.o
+ .debug_aranges
+                0x0000000000000000       0xa8 Src/syscalls.o
+ .debug_ranges  0x0000000000000000       0x98 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x243 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0xa60 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x22 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x40 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x18 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x94 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x3c Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x34 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x57 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x174 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x330 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x52 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x1f Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x43 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x20 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x1a3 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x35 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x6a Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x1c Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x52 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x40 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x40 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0xd7 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x1c Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x3d Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x35 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x122 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x16 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x16 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x29 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x241 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x1c Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x10 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x16 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x145 Src/syscalls.o
+ .debug_macro   0x0000000000000000      0x189 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x16 Src/syscalls.o
+ .debug_macro   0x0000000000000000       0x88 Src/syscalls.o
+ .debug_line    0x0000000000000000      0x885 Src/syscalls.o
+ .debug_str     0x0000000000000000     0x887b Src/syscalls.o
+ .comment       0x0000000000000000       0x7c Src/syscalls.o
+ .debug_frame   0x0000000000000000      0x2ac Src/syscalls.o
+ .ARM.attributes
+                0x0000000000000000       0x33 Src/syscalls.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .group         0x0000000000000000        0xc Src/sysmem.o
+ .text          0x0000000000000000        0x0 Src/sysmem.o
+ .data          0x0000000000000000        0x0 Src/sysmem.o
+ .bss           0x0000000000000000        0x0 Src/sysmem.o
+ .bss.__sbrk_heap_end
+                0x0000000000000000        0x4 Src/sysmem.o
+ .text._sbrk    0x0000000000000000       0x6c Src/sysmem.o
+ .debug_info    0x0000000000000000      0x985 Src/sysmem.o
+ .debug_abbrev  0x0000000000000000      0x19b Src/sysmem.o
+ .debug_aranges
+                0x0000000000000000       0x20 Src/sysmem.o
+ .debug_ranges  0x0000000000000000       0x10 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0xee Src/sysmem.o
+ .debug_macro   0x0000000000000000      0xa60 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x10 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x22 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x40 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x18 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x94 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x3c Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x34 Src/sysmem.o
+ .debug_macro   0x0000000000000000      0x174 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x57 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x52 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x1f Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x43 Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x20 Src/sysmem.o
+ .debug_macro   0x0000000000000000      0x1a3 Src/sysmem.o
+ .debug_macro   0x0000000000000000      0x23b Src/sysmem.o
+ .debug_macro   0x0000000000000000       0xef Src/sysmem.o
+ .debug_macro   0x0000000000000000       0x6a Src/sysmem.o
+ .debug_macro   0x0000000000000000      0x1df Src/sysmem.o
+ .debug_line    0x0000000000000000      0x60e Src/sysmem.o
+ .debug_str     0x0000000000000000     0x5f49 Src/sysmem.o
+ .comment       0x0000000000000000       0x7c Src/sysmem.o
+ .debug_frame   0x0000000000000000       0x34 Src/sysmem.o
+ .ARM.attributes
+                0x0000000000000000       0x33 Src/sysmem.o
+ .text          0x0000000000000000       0x14 Startup/startup_stm32f103c6tx.o
+ .data          0x0000000000000000        0x0 Startup/startup_stm32f103c6tx.o
+ .bss           0x0000000000000000        0x0 Startup/startup_stm32f103c6tx.o
+ .text          0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-errno.o)
+ .text.__errno  0x0000000000000000        0xc d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000000       0x20 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x28 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000000000       0x60 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .text.memset   0x0000000000000000       0x10 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000000       0x20 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .data          0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .bss           0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .eh_frame      0x0000000000000000        0x4 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x2d d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+ .text          0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ .data          0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ .bss           0x0000000000000000        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x0000000020000000 0x0000000000002800 xrw
+ROM              0x0000000008000000 0x0000000000008000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+LOAD d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+LOAD d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+LOAD Src/AFIO_program.o
+LOAD Src/DIO_program.o
+LOAD Src/EXTI_program.o
+LOAD Src/NVIC_program.o
+LOAD Src/RCC_program.o
+LOAD Src/STK_program.o
+LOAD Src/main.o
+LOAD Src/syscalls.o
+LOAD Src/sysmem.o
+LOAD Startup/startup_stm32f103c6tx.o
+START GROUP
+LOAD d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+LOAD d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libm.a
+END GROUP
+START GROUP
+LOAD d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a
+LOAD d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+END GROUP
+START GROUP
+LOAD d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a
+LOAD d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+LOAD d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a
+END GROUP
+START GROUP
+LOAD d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m\libgcc.a
+LOAD d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a
+LOAD d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libnosys.a
+END GROUP
+LOAD d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtend.o
+LOAD d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+                0x0000000020002800                _estack = (ORIGIN (RAM) + LENGTH (RAM))
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x130
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x130 Startup/startup_stm32f103c6tx.o
+                0x0000000008000000                g_pfnVectors
+                0x0000000008000130                . = ALIGN (0x4)
+
+.text           0x0000000008000130      0x840
+                0x0000000008000130                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000008000130       0x40 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ *(.text*)
+ .text.MAFIO_voidSetEXTIConfiguration
+                0x0000000008000170       0xa8 Src/AFIO_program.o
+                0x0000000008000170                MAFIO_voidSetEXTIConfiguration
+ .text.MDIO_voidSetPinDirection
+                0x0000000008000218      0x1a8 Src/DIO_program.o
+                0x0000000008000218                MDIO_voidSetPinDirection
+ .text.MEXTI_voidInit
+                0x00000000080003c0       0x34 Src/EXTI_program.o
+                0x00000000080003c0                MEXTI_voidInit
+ .text.MEXTI_voidSetSignalLatch
+                0x00000000080003f4       0x78 Src/EXTI_program.o
+                0x00000000080003f4                MEXTI_voidSetSignalLatch
+ .text.MEXTI_voidEnableEXTI
+                0x000000000800046c       0x2c Src/EXTI_program.o
+                0x000000000800046c                MEXTI_voidEnableEXTI
+ .text.EXTI9_5_IRQHandler
+                0x0000000008000498       0x24 Src/EXTI_program.o
+                0x0000000008000498                EXTI9_5_IRQHandler
+ .text.MNVIC_voidInit
+                0x00000000080004bc       0x1c Src/NVIC_program.o
+                0x00000000080004bc                MNVIC_voidInit
+ .text.MNVIC_voidEnableInterrupt
+                0x00000000080004d8       0x44 Src/NVIC_program.o
+                0x00000000080004d8                MNVIC_voidEnableInterrupt
+ .text.RCC_voidInitSysClock
+                0x000000000800051c       0x24 Src/RCC_program.o
+                0x000000000800051c                RCC_voidInitSysClock
+ .text.RCC_voidEnablePeripheralClock
+                0x0000000008000540       0x80 Src/RCC_program.o
+                0x0000000008000540                RCC_voidEnablePeripheralClock
+ .text.MSTK_voidInit
+                0x00000000080005c0       0x18 Src/STK_program.o
+                0x00000000080005c0                MSTK_voidInit
+ .text.MSTK_voidSetIntervalPeriodic
+                0x00000000080005d8       0x4c Src/STK_program.o
+                0x00000000080005d8                MSTK_voidSetIntervalPeriodic
+ .text.SysTick_Handler
+                0x0000000008000624       0x5c Src/STK_program.o
+                0x0000000008000624                SysTick_Handler
+ .text.Switch_CPUAccessLevel
+                0x0000000008000680       0x40 Src/main.o
+                0x0000000008000680                Switch_CPUAccessLevel
+ .text.SVC_Handler
+                0x00000000080006c0        0xe Src/main.o
+                0x00000000080006c0                SVC_Handler
+ .text.TaskA    0x00000000080006ce       0x20 Src/main.o
+                0x00000000080006ce                TaskA
+ .text.TaskB    0x00000000080006ee       0x26 Src/main.o
+                0x00000000080006ee                TaskB
+ .text.MainOS   0x0000000008000714       0xfc Src/main.o
+                0x0000000008000714                MainOS
+ .text.Schedule_Func
+                0x0000000008000810       0x44 Src/main.o
+                0x0000000008000810                Schedule_Func
+ .text.main     0x0000000008000854       0x68 Src/main.o
+                0x0000000008000854                main
+ .text.Reset_Handler
+                0x00000000080008bc       0x50 Startup/startup_stm32f103c6tx.o
+                0x00000000080008bc                Reset_Handler
+ .text.Default_Handler
+                0x000000000800090c        0x2 Startup/startup_stm32f103c6tx.o
+                0x000000000800090c                EXTI2_IRQHandler
+                0x000000000800090c                TIM8_TRG_COM_IRQHandler
+                0x000000000800090c                TIM8_CC_IRQHandler
+                0x000000000800090c                DebugMon_Handler
+                0x000000000800090c                TIM1_CC_IRQHandler
+                0x000000000800090c                HardFault_Handler
+                0x000000000800090c                TIM6_IRQHandler
+                0x000000000800090c                PVD_IRQHandler
+                0x000000000800090c                SDIO_IRQHandler
+                0x000000000800090c                PendSV_Handler
+                0x000000000800090c                NMI_Handler
+                0x000000000800090c                EXTI3_IRQHandler
+                0x000000000800090c                USB_HP_CAN_TX_IRQHandler
+                0x000000000800090c                EXTI0_IRQHandler
+                0x000000000800090c                I2C2_EV_IRQHandler
+                0x000000000800090c                UsageFault_Handler
+                0x000000000800090c                ADC1_2_IRQHandler
+                0x000000000800090c                SPI1_IRQHandler
+                0x000000000800090c                CAN_SCE_IRQHandler
+                0x000000000800090c                TAMPER_IRQHandler
+                0x000000000800090c                TIM8_UP_IRQHandler
+                0x000000000800090c                DMA2_Channel2_IRQHandler
+                0x000000000800090c                DMA1_Channel4_IRQHandler
+                0x000000000800090c                USART3_IRQHandler
+                0x000000000800090c                RTC_IRQHandler
+                0x000000000800090c                DMA1_Channel7_IRQHandler
+                0x000000000800090c                UART5_IRQHandler
+                0x000000000800090c                ADC3_IRQHandler
+                0x000000000800090c                TIM4_IRQHandler
+                0x000000000800090c                CAN_RX1_IRQHandler
+                0x000000000800090c                DMA2_Channel1_IRQHandler
+                0x000000000800090c                I2C1_EV_IRQHandler
+                0x000000000800090c                DMA1_Channel6_IRQHandler
+                0x000000000800090c                UART4_IRQHandler
+                0x000000000800090c                TIM3_IRQHandler
+                0x000000000800090c                RCC_IRQHandler
+                0x000000000800090c                TIM1_TRG_COM_IRQHandler
+                0x000000000800090c                DMA1_Channel1_IRQHandler
+                0x000000000800090c                Default_Handler
+                0x000000000800090c                EXTI15_10_IRQHandler
+                0x000000000800090c                TIM7_IRQHandler
+                0x000000000800090c                TIM5_IRQHandler
+                0x000000000800090c                SPI2_IRQHandler
+                0x000000000800090c                USB_LP_CAN_RX0_IRQHandler
+                0x000000000800090c                MemManage_Handler
+                0x000000000800090c                DMA1_Channel5_IRQHandler
+                0x000000000800090c                EXTI4_IRQHandler
+                0x000000000800090c                DMA1_Channel3_IRQHandler
+                0x000000000800090c                FSMC_IRQHandler
+                0x000000000800090c                TIM1_UP_IRQHandler
+                0x000000000800090c                WWDG_IRQHandler
+                0x000000000800090c                TIM2_IRQHandler
+                0x000000000800090c                TIM1_BRK_IRQHandler
+                0x000000000800090c                EXTI1_IRQHandler
+                0x000000000800090c                RTCAlarm_IRQHandler
+                0x000000000800090c                DMA2_Channel4_5_IRQHandler
+                0x000000000800090c                USART2_IRQHandler
+                0x000000000800090c                I2C2_ER_IRQHandler
+                0x000000000800090c                DMA1_Channel2_IRQHandler
+                0x000000000800090c                TIM8_BRK_IRQHandler
+                0x000000000800090c                FLASH_IRQHandler
+                0x000000000800090c                BusFault_Handler
+                0x000000000800090c                USART1_IRQHandler
+                0x000000000800090c                SPI3_IRQHandler
+                0x000000000800090c                I2C1_ER_IRQHandler
+                0x000000000800090c                DMA2_Channel3_IRQHandler
+ *fill*         0x000000000800090e        0x2 
+ .text.__libc_init_array
+                0x0000000008000910       0x48 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+                0x0000000008000910                __libc_init_array
+ *(.glue_7)
+ .glue_7        0x0000000008000958        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000008000958        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0000000008000958        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ *(.init)
+ .init          0x0000000008000958        0x4 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+                0x0000000008000958                _init
+ .init          0x000000000800095c        0x8 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+ *(.fini)
+ .fini          0x0000000008000964        0x4 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+                0x0000000008000964                _fini
+ .fini          0x0000000008000968        0x8 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+                0x0000000008000970                . = ALIGN (0x4)
+                0x0000000008000970                _etext = .
+
+.vfp11_veneer   0x0000000008000970        0x0
+ .vfp11_veneer  0x0000000008000970        0x0 linker stubs
+
+.v4_bx          0x0000000008000970        0x0
+ .v4_bx         0x0000000008000970        0x0 linker stubs
+
+.iplt           0x0000000008000970        0x0
+ .iplt          0x0000000008000970        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+
+.rel.dyn        0x0000000008000970        0x0
+ .rel.iplt      0x0000000008000970        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+
+.rodata         0x0000000008000970        0x0
+                0x0000000008000970                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+                0x0000000008000970                . = ALIGN (0x4)
+
+.ARM.extab      0x0000000008000970        0x0
+                0x0000000008000970                . = ALIGN (0x4)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000000008000970                . = ALIGN (0x4)
+
+.ARM            0x0000000008000970        0x0
+                0x0000000008000970                . = ALIGN (0x4)
+                0x0000000008000970                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000008000970                __exidx_end = .
+                0x0000000008000970                . = ALIGN (0x4)
+
+.preinit_array  0x0000000008000970        0x0
+                0x0000000008000970                . = ALIGN (0x4)
+                0x0000000008000970                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0000000008000970                PROVIDE (__preinit_array_end = .)
+                0x0000000008000970                . = ALIGN (0x4)
+
+.init_array     0x0000000008000970        0x4
+                0x0000000008000970                . = ALIGN (0x4)
+                0x0000000008000970                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x0000000008000970        0x4 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+                0x0000000008000974                PROVIDE (__init_array_end = .)
+                0x0000000008000974                . = ALIGN (0x4)
+
+.fini_array     0x0000000008000974        0x4
+                0x0000000008000974                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000008000974        0x4 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x0000000008000978                . = ALIGN (0x4)
+                0x0000000008000978                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000        0x4 load address 0x0000000008000978
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data._S_MSP   0x0000000020000000        0x4 Src/main.o
+                0x0000000020000000                _S_MSP
+                0x0000000020000004                . = ALIGN (0x4)
+                0x0000000020000004                _edata = .
+
+.igot.plt       0x0000000020000004        0x0 load address 0x000000000800097c
+ .igot.plt      0x0000000020000004        0x0 d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+                0x0000000020000004                . = ALIGN (0x4)
+
+.bss            0x0000000020000004       0x3c load address 0x000000000800097c
+                0x0000000020000004                _sbss = .
+                0x0000000020000004                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x0000000020000004       0x1c d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ *(.bss*)
+ .bss.EXTI9_CallBack
+                0x0000000020000020        0x4 Src/EXTI_program.o
+ .bss.MSTK_CallBack
+                0x0000000020000024        0x4 Src/STK_program.o
+ .bss.MSTK_u8ModeOfInterval
+                0x0000000020000028        0x1 Src/STK_program.o
+ .bss.TaskA_Flag
+                0x0000000020000029        0x1 Src/main.o
+                0x0000000020000029                TaskA_Flag
+ .bss.TaskB_Flag
+                0x000000002000002a        0x1 Src/main.o
+                0x000000002000002a                TaskB_Flag
+ .bss.Schedule_Flag
+                0x000000002000002b        0x1 Src/main.o
+                0x000000002000002b                Schedule_Flag
+ *(COMMON)
+ COMMON         0x000000002000002c       0x14 Src/main.o
+                0x000000002000002c                _E_MSP
+                0x0000000020000030                _S_PSP_TA
+                0x0000000020000034                _S_PSP_TB
+                0x0000000020000038                _E_PSP_TB
+                0x000000002000003c                _E_PSP_TA
+                0x0000000020000040                . = ALIGN (0x4)
+                0x0000000020000040                _ebss = .
+                0x0000000020000040                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x0000000020000040      0x600 load address 0x000000000800097c
+                0x0000000020000040                . = ALIGN (0x8)
+                [!provide]                        PROVIDE (end = .)
+                0x0000000020000040                PROVIDE (_end = .)
+                0x0000000020000240                . = (. + _Min_Heap_Size)
+ *fill*         0x0000000020000040      0x200 
+                0x0000000020000640                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000020000240      0x400 
+                0x0000000020000640                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1d d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crti.o
+ .ARM.attributes
+                0x000000000000001d       0x2d d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x33 Src/AFIO_program.o
+ .ARM.attributes
+                0x000000000000007d       0x33 Src/DIO_program.o
+ .ARM.attributes
+                0x00000000000000b0       0x33 Src/EXTI_program.o
+ .ARM.attributes
+                0x00000000000000e3       0x33 Src/NVIC_program.o
+ .ARM.attributes
+                0x0000000000000116       0x33 Src/RCC_program.o
+ .ARM.attributes
+                0x0000000000000149       0x33 Src/STK_program.o
+ .ARM.attributes
+                0x000000000000017c       0x33 Src/main.o
+ .ARM.attributes
+                0x00000000000001af       0x21 Startup/startup_stm32f103c6tx.o
+ .ARM.attributes
+                0x00000000000001d0       0x2d d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000001fd       0x1d d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/thumb/v7-m/crtn.o
+OUTPUT(STM32F103C6_OS_SYSTICK.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000      0xc2e
+ .debug_info    0x0000000000000000      0x126 Src/AFIO_program.o
+ .debug_info    0x0000000000000126      0x214 Src/DIO_program.o
+ .debug_info    0x000000000000033a      0x1e1 Src/EXTI_program.o
+ .debug_info    0x000000000000051b      0x1b4 Src/NVIC_program.o
+ .debug_info    0x00000000000006cf       0xfa Src/RCC_program.o
+ .debug_info    0x00000000000007c9      0x209 Src/STK_program.o
+ .debug_info    0x00000000000009d2      0x23a Src/main.o
+ .debug_info    0x0000000000000c0c       0x22 Startup/startup_stm32f103c6tx.o
+
+.debug_abbrev   0x0000000000000000      0x566
+ .debug_abbrev  0x0000000000000000       0xa7 Src/AFIO_program.o
+ .debug_abbrev  0x00000000000000a7       0x9b Src/DIO_program.o
+ .debug_abbrev  0x0000000000000142       0xf5 Src/EXTI_program.o
+ .debug_abbrev  0x0000000000000237       0x9b Src/NVIC_program.o
+ .debug_abbrev  0x00000000000002d2       0x70 Src/RCC_program.o
+ .debug_abbrev  0x0000000000000342      0x104 Src/STK_program.o
+ .debug_abbrev  0x0000000000000446      0x10e Src/main.o
+ .debug_abbrev  0x0000000000000554       0x12 Startup/startup_stm32f103c6tx.o
+
+.debug_aranges  0x0000000000000000      0x208
+ .debug_aranges
+                0x0000000000000000       0x20 Src/AFIO_program.o
+ .debug_aranges
+                0x0000000000000020       0x48 Src/DIO_program.o
+ .debug_aranges
+                0x0000000000000068       0x50 Src/EXTI_program.o
+ .debug_aranges
+                0x00000000000000b8       0x50 Src/NVIC_program.o
+ .debug_aranges
+                0x0000000000000108       0x30 Src/RCC_program.o
+ .debug_aranges
+                0x0000000000000138       0x58 Src/STK_program.o
+ .debug_aranges
+                0x0000000000000190       0x50 Src/main.o
+ .debug_aranges
+                0x00000000000001e0       0x28 Startup/startup_stm32f103c6tx.o
+
+.debug_ranges   0x0000000000000000      0x190
+ .debug_ranges  0x0000000000000000       0x10 Src/AFIO_program.o
+ .debug_ranges  0x0000000000000010       0x38 Src/DIO_program.o
+ .debug_ranges  0x0000000000000048       0x40 Src/EXTI_program.o
+ .debug_ranges  0x0000000000000088       0x40 Src/NVIC_program.o
+ .debug_ranges  0x00000000000000c8       0x20 Src/RCC_program.o
+ .debug_ranges  0x00000000000000e8       0x48 Src/STK_program.o
+ .debug_ranges  0x0000000000000130       0x40 Src/main.o
+ .debug_ranges  0x0000000000000170       0x20 Startup/startup_stm32f103c6tx.o
+
+.debug_macro    0x0000000000000000     0x1370
+ .debug_macro   0x0000000000000000       0x3f Src/AFIO_program.o
+ .debug_macro   0x000000000000003f      0xa60 Src/AFIO_program.o
+ .debug_macro   0x0000000000000a9f       0x3a Src/AFIO_program.o
+ .debug_macro   0x0000000000000ad9       0x40 Src/AFIO_program.o
+ .debug_macro   0x0000000000000b19       0x6a Src/AFIO_program.o
+ .debug_macro   0x0000000000000b83       0x10 Src/AFIO_program.o
+ .debug_macro   0x0000000000000b93       0x3f Src/DIO_program.o
+ .debug_macro   0x0000000000000bd2       0xe2 Src/DIO_program.o
+ .debug_macro   0x0000000000000cb4       0x9a Src/DIO_program.o
+ .debug_macro   0x0000000000000d4e       0x44 Src/EXTI_program.o
+ .debug_macro   0x0000000000000d92       0xee Src/EXTI_program.o
+ .debug_macro   0x0000000000000e80       0x16 Src/EXTI_program.o
+ .debug_macro   0x0000000000000e96       0x10 Src/EXTI_program.o
+ .debug_macro   0x0000000000000ea6       0x44 Src/NVIC_program.o
+ .debug_macro   0x0000000000000eea       0x52 Src/NVIC_program.o
+ .debug_macro   0x0000000000000f3c       0x6a Src/NVIC_program.o
+ .debug_macro   0x0000000000000fa6       0x10 Src/NVIC_program.o
+ .debug_macro   0x0000000000000fb6       0x3e Src/RCC_program.o
+ .debug_macro   0x0000000000000ff4      0x213 Src/RCC_program.o
+ .debug_macro   0x0000000000001207       0x22 Src/RCC_program.o
+ .debug_macro   0x0000000000001229       0x46 Src/RCC_program.o
+ .debug_macro   0x000000000000126f       0x3f Src/STK_program.o
+ .debug_macro   0x00000000000012ae       0x28 Src/STK_program.o
+ .debug_macro   0x00000000000012d6       0x10 Src/STK_program.o
+ .debug_macro   0x00000000000012e6       0x8a Src/main.o
+
+.debug_line     0x0000000000000000      0x975
+ .debug_line    0x0000000000000000       0xb1 Src/AFIO_program.o
+ .debug_line    0x00000000000000b1      0x25b Src/DIO_program.o
+ .debug_line    0x000000000000030c      0x11a Src/EXTI_program.o
+ .debug_line    0x0000000000000426      0x145 Src/NVIC_program.o
+ .debug_line    0x000000000000056b       0xd3 Src/RCC_program.o
+ .debug_line    0x000000000000063e      0x13b Src/STK_program.o
+ .debug_line    0x0000000000000779      0x178 Src/main.o
+ .debug_line    0x00000000000008f1       0x84 Startup/startup_stm32f103c6tx.o
+
+.debug_str      0x0000000000000000     0x4c9f
+ .debug_str     0x0000000000000000     0x3048 Src/AFIO_program.o
+                                       0x30cc (size before relaxing)
+ .debug_str     0x0000000000003048      0x781 Src/DIO_program.o
+                                       0x36a6 (size before relaxing)
+ .debug_str     0x00000000000037c9      0x37f Src/EXTI_program.o
+                                       0x328b (size before relaxing)
+ .debug_str     0x0000000000003b48      0x429 Src/NVIC_program.o
+                                       0x3335 (size before relaxing)
+ .debug_str     0x0000000000003f71      0x7da Src/RCC_program.o
+                                       0x36e6 (size before relaxing)
+ .debug_str     0x000000000000474b      0x206 Src/STK_program.o
+                                       0x3112 (size before relaxing)
+ .debug_str     0x0000000000004951      0x31d Src/main.o
+                                       0x3d71 (size before relaxing)
+ .debug_str     0x0000000000004c6e       0x31 Startup/startup_stm32f103c6tx.o
+                                         0x76 (size before relaxing)
+
+.comment        0x0000000000000000       0x7b
+ .comment       0x0000000000000000       0x7b Src/AFIO_program.o
+                                         0x7c (size before relaxing)
+ .comment       0x000000000000007b       0x7c Src/DIO_program.o
+ .comment       0x000000000000007b       0x7c Src/EXTI_program.o
+ .comment       0x000000000000007b       0x7c Src/NVIC_program.o
+ .comment       0x000000000000007b       0x7c Src/RCC_program.o
+ .comment       0x000000000000007b       0x7c Src/STK_program.o
+ .comment       0x000000000000007b       0x7c Src/main.o
+
+.debug_frame    0x0000000000000000      0x650
+ .debug_frame   0x0000000000000000       0x38 Src/AFIO_program.o
+ .debug_frame   0x0000000000000038      0x100 Src/DIO_program.o
+ .debug_frame   0x0000000000000138      0x114 Src/EXTI_program.o
+ .debug_frame   0x000000000000024c      0x120 Src/NVIC_program.o
+ .debug_frame   0x000000000000036c       0x80 Src/RCC_program.o
+ .debug_frame   0x00000000000003ec      0x13c Src/STK_program.o
+ .debug_frame   0x0000000000000528       0xfc Src/main.o
+ .debug_frame   0x0000000000000624       0x2c d:/learn_in_depth/work space/2_embedded_c/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.7-2018-q2-update.win32_1.4.0.202007081208/tools/bin/../lib/gcc/arm-none-eabi/7.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc_nano.a(lib_a-init.o)

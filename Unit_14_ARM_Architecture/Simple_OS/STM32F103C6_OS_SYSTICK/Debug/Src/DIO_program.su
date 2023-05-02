@@ -1,0 +1,6 @@
+DIO_program.c:22:6:MDIO_voidSetPinDirection	16	static
+DIO_program.c:88:6:MDIO_voidSetPinValue	16	static
+DIO_program.c:132:6:MDIO_u8GetPinValue	24	static
+DIO_program.c:158:6:MDIO_voidSetPortDirection	16	static
+DIO_program.c:188:6:MDIO_voidSetPortValue	16	static
+DIO_program.c:218:5:MDIO_u16GetPortValue	24	static
